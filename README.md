@@ -13,4 +13,5 @@ $ curl -L raw.github.com/Satjopg/dotfiles/master/install.sh | bash
 ```
 
 ## 今後
-HomeBrewとatomを入れるshellも書きたい.
+HomeBrewとatomを入れるshellも書きたい.  
+→ [HomeBrew](https://github.com/Satjopg/SetupScripts_Mac/blob/master/brew_setup.sh)
